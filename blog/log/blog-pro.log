@@ -1,0 +1,6 @@
+2020-07-06 10:19:56.824  INFO 15180 --- [restartedMain] com.skdjq.blog.BlogApplication           : Starting BlogApplication on DESKTOP-LK9R3Q0 with PID 15180 (D:\Java\JavaCode\blog\target\classes started by 思考的机器 in D:\Java\JavaCode\blog)
+2020-07-06 10:19:56.826  INFO 15180 --- [restartedMain] com.skdjq.blog.BlogApplication           : The following profiles are active: pro
+2020-07-06 10:19:58.186  WARN 15180 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-07-06 10:19:58.443  WARN 15180 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-07-06 10:19:58.447  WARN 15180 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-07-06 10:19:58.560  INFO 15180 --- [restartedMain] com.skdjq.blog.BlogApplication           : Started BlogApplication in 2.277 seconds (JVM running for 3.16)
